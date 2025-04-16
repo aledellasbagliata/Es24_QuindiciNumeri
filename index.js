@@ -84,3 +84,8 @@ function scambiaDiv(piena, vuota) {
     piena.innerHTML = "";
     piena.style.backgroundColor = null;
 }
+
+function checkVitory()
+{
+    
+}
